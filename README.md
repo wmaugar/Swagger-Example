@@ -1,27 +1,27 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Express Restaurant Swagger" />
+  <img src="./.github/app.gif" alt="Swagger Example" />
 
   &#xa0;
 
   <!-- <a href="https://expressrestaurantswagger.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Express Restaurant Swagger</h1>
+<h1 align="center">Swagger Example</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wmaugar/express-restaurant-swagger?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wmaugar/Swagger-Example?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wmaugar/express-restaurant-swagger?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wmaugar/Swagger-Example?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wmaugar/express-restaurant-swagger?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wmaugar/Swagger-Example?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/wmaugar/express-restaurant-swagger?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/wmaugar/Swagger-Example?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/wmaugar/express-restaurant-swagger?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/wmaugar/Swagger-Example?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/wmaugar/express-restaurant-swagger?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/wmaugar/Swagger-Example?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wmaugar/express-restaurant-swagger?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wmaugar/Swagger-Example?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -73,10 +73,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/wmaugar/express-restaurant-swagger
+$ git clone https://github.com/wmaugar/Swagger-Example
 
 # Access
-$ cd express-restaurant-swagger
+$ cd Swagger-Example
 
 # Install dependencies
 $ npm install
