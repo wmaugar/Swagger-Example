@@ -86,6 +86,9 @@ $ npm start
 
 # The server will initialize in the <http://localhost:4000>
 ```
+# Swagger interface will published on route: <http://localhost:4000/api-docs>
+```
+
 
 ## :memo: License ##
 
